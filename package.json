@@ -1,0 +1,21 @@
+{
+  "name": "hain-plugin-onlinesearch",
+  "version": "1.0.0",
+  "description": "A simple Hain plugin for searching on Bing, Bing images, Google and Google Images.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Acuf5928/hain-plugin-onlinesearch"
+  },
+  "keywords": [
+    "hain0"
+  ],
+  "author": "Acuf5928",
+  "license": "MIT",
+  "hain": {
+    "prefix": "/os ",
+    "usage": "/os something",
+    "icon": "#fa fa-binoculars",
+    "redirect": "/os "
+  }
+}
